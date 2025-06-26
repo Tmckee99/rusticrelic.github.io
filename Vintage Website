@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tucker's Vintage Finds</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+<h1>Tucker's Vintage Finds</h1>
+<p>Timeless Styles. Handpicked Quality.</p>
+</header>
+
+<nav>
+<a href="#shop">Shop</a>
+<a href="#about">About</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section id="shop" class="gallery">
+<h2>Shop Vintage</h2>
+<div class="items">
+<div class="item">
+<img src="images/jacket.jpg" alt="Vintage Jacket">
+<h3>70s Suede Jacket</h3>
+<p>$65.00</p>
+<button>Add to Cart</button>
+</div>
+<div class="item">
+<img src="images/dress.jpg" alt="Vintage Dress">
+<h3>90s Floral Dress</h3>
+<p>$45.00</p>
+<button>Add to Cart</button>
+</div>
+<!-- Add more items as needed -->
+</div>
+</section>
+
+<section id="about">
+<h2>About Us</h2>
+<p>At Tucker's Vintage Finds, we believe fashion should be sustainable and soulful. Every piece is curated with love, history, and style in mind.</p>
+</section>
+
+<section id="contact">
+<h2>Contact</h2>
+<p>Email us: <a href="mailto:vintage@tuckerfinds.com">vintage@tuckerfinds.com</a></p>
+<p>Follow us on Instagram: <a href="https://instagram.com/tuckervintage">@tuckervintage</a></p>
+</section>
+
+<footer>
+<p>&copy; 2025 Tucker's Vintage Finds</p>
+</footer>
+
+</body>
+</html>
